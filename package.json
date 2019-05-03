@@ -1,0 +1,28 @@
+{
+  "name": "yout-project",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veronius/Yout-project.git"
+  },
+  "author": "Ilya Viarbila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Veronius/Yout-project/issues"
+  },
+  "homepage": "https://github.com/Veronius/Yout-project#readme",
+  "description": "learning project",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2"
+  }
+}
